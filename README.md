@@ -25,3 +25,6 @@ You have several ways of using a Minecraft mod, but here are 2:
 2. Manual install
 
 If you want a detailed description on how to install a mod for Minecraft, you can simply google it or find a video on YouTube. There are tons of guides on how to do this for any mod. Just remember that this is a **Forge** mod, not **Fabric** (the installation guide on the latter is somewhat different).
+
+## Test it out!
+After cloning this repository you are able to test it out in developer environment by running one of the gradle run functions. I recommend running the one named Tree [runClient]. If you are not familiar with gradle or minecraft modding, you should probably follow a set-up beginner tutorial on Forge modding and gradle before doing this.
